@@ -1,2 +1,2 @@
 # canagon
-Official placeholder. Visit https://canagon.com
+Official placeholder. Visit https://www.canagon.com
