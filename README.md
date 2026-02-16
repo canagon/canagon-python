@@ -1,2 +1,2 @@
-# canagon-python
-Official Python package for Canagon
+# canagon
+Official placeholder. Visit https://canagon.com
