@@ -6,4 +6,4 @@ readme = "README.md"
 requires-python = ">=3.8"
 
 [project.urls]
-Homepage = "https://canagon.com"
+Homepage = "https://www.canagon.com"
